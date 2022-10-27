@@ -223,19 +223,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yborisov\\.nuget\\packages\\": {}
+    "C:\\Users\\BatmanBegins\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yborisov\\Desktop\\work\\C#\\C#Develepment\\05C#Web\\02ASP.Net\\03Api\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount.csproj",
+      "projectUniqueName": "C:\\Users\\BatmanBegins\\Desktop\\Common\\Common\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount.csproj",
       "projectName": "GoogleDriveSericeAccount",
-      "projectPath": "C:\\Users\\yborisov\\Desktop\\work\\C#\\C#Develepment\\05C#Web\\02ASP.Net\\03Api\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount.csproj",
-      "packagesPath": "C:\\Users\\yborisov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yborisov\\Desktop\\work\\C#\\C#Develepment\\05C#Web\\02ASP.Net\\03Api\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount\\obj\\",
+      "projectPath": "C:\\Users\\BatmanBegins\\Desktop\\Common\\Common\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount.csproj",
+      "packagesPath": "C:\\Users\\BatmanBegins\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BatmanBegins\\Desktop\\Common\\Common\\GoogleDriveSericeAccount\\GoogleDriveSericeAccount\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yborisov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BatmanBegins\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -286,7 +286,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
